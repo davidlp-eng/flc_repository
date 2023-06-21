@@ -1,0 +1,58 @@
+""
+"
+Variáveis do Software
+
+Metodologias
+1. Variável ka_b:0
+2. Variável ka_n:1
+3. Variável kb_b:0
+4. Variável kb_n:1
+5. Variável kc_b:0
+6. Variável kc_n:1
+7. Variável kd_b:0
+8. Variável kd_n:1
+9. Variável plots_budynas:1
+10. Variável plots_norton:0
+
+Fator geométrico (quando for calcular, sempre deixar no menu da seção transversal desejada)
+11. Variável kt_flexao:1.00000000000000
+12. Variável kt_tracao:1.00000000000000
+13. Variável kt_torcao:1.00000000000000
+14. Variável kt_cisalhamento:1.00000000000000
+15. Variável h ou r da secao:150
+16. Variável d da secao:0
+17. Variável b ou w secao:150
+18. Variável método simplificado:1
+19. Variável neuber puro:0
+20. Variável neuber-heywood modificado:0
+
+Material
+21. Variável Sut:600
+22. Variável Sy:500
+23. Variável temperatura:500
+24. Variável confiabilidade 0.5:0
+25. Variável confiabilidade 0.9:0
+26. Variável confiabilidade 0.95:0
+27. Variável confiabilidade 0.99:0
+28. Variável confiabilidade 0.999:1
+29. Variável confiabilidade 0.9999:0
+30. Variável confiabilidade 0.99999:0
+31. Variável confiabilidade 0.999999:0
+32. Variável flexo roatacao sim:1
+33. Variável flexo roatacao não:0
+34. Variável flexao pura e/ou flexo torcao:1
+35. Variável axial puro:0
+36. Variável torcao pura:0
+37. Variável retificado:0
+38. Variável forjado:0
+39. Variável usinado ou laminado a frio:0
+40. Variável laminado a quente:1
+41. Variável flexao maxima:100
+42. Variável flexao minima:-100
+43. Variável tracao maxima:0
+44. Variável tracao minima:0
+45. Variável torcao maxima:0
+46. Variável torcao minima:0
+47. Variável cisalhamento maxima:0
+48. Variável cisalhamento minima:0
+"
