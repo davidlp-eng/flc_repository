@@ -1809,7 +1809,7 @@ Qual metodologia você deseja utilizar nos cálculos ?
                             <property name="margin-bottom">8</property>
                             <property name="label" translatable="yes">	O usuário deverá usar as referências Budynas 2019 (tabela A15) ou Norton 2013 
 (apêndice C)  para averigar seus respectivos gráficos para cada tipo de concentrador de 
-tensão e inseri-los no menu ¨Diagrma S-N¨.</property>
+tensão e inseri-los no menu ¨Diagrama S-N¨.</property>
                             <attributes>
                               <attribute name="font-desc" value="Arial 10"/>
                             </attributes>

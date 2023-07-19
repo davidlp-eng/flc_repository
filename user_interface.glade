@@ -1809,7 +1809,7 @@ Qual metodologia você deseja utilizar nos cálculos ?
                             <property name="margin-bottom">8</property>
                             <property name="label" translatable="yes">	O usuário deverá usar as referências Budynas 2019 (tabela A15) ou Norton 2013 
 (apêndice C)  para averigar seus respectivos gráficos para cada tipo de concentrador de 
-tensão e inseri-los no menu ¨Diagrma S-N¨.</property>
+tensão e inseri-los no menu ¨Diagrama S-N¨.</property>
                             <attributes>
                               <attribute name="font-desc" value="Arial 10"/>
                             </attributes>
@@ -2434,25 +2434,6 @@ orifício transversal</property>
                             <property name="expand">False</property>
                             <property name="fill">True</property>
                             <property name="position">1</property>
-                          </packing>
-                        </child>
-                        <child>
-                          <object class="GtkRadioButton" id="part_neuber_2">
-                            <property name="label" translatable="yes">Neuber Puro</property>
-                            <property name="visible">True</property>
-                            <property name="can-focus">True</property>
-                            <property name="receives-default">False</property>
-                            <property name="margin-left">5</property>
-                            <property name="margin-right">5</property>
-                            <property name="margin-start">5</property>
-                            <property name="margin-end">5</property>
-                            <property name="draw-indicator">True</property>
-                            <property name="group">part_neuber_1</property>
-                          </object>
-                          <packing>
-                            <property name="expand">False</property>
-                            <property name="fill">True</property>
-                            <property name="position">2</property>
                           </packing>
                         </child>
                         <child>
